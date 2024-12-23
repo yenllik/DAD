@@ -1,0 +1,44 @@
+<svg width="1100" height="2453" viewBox="0 0 1100 2453" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_12_114)">
+<rect width="1100" height="2453" fill="#DBE8F4"/>
+<ellipse cx="991.299" cy="553.317" rx="204.443" ry="149.108" transform="rotate(-30.5436 991.299 553.317)" fill="#FFFCC1" fill-opacity="0.48"/>
+<ellipse cx="918.807" cy="920.612" rx="204.443" ry="149.108" transform="rotate(-13.5496 918.807 920.612)" fill="#FFFCC1" fill-opacity="0.48"/>
+<ellipse cx="934.071" cy="2089.39" rx="204.443" ry="149.108" transform="rotate(-13.5496 934.071 2089.39)" fill="#FFFCC1" fill-opacity="0.48"/>
+<ellipse cx="181.971" cy="306.519" rx="264.5" ry="220.727" transform="rotate(-30.5436 181.971 306.519)" fill="#FFFCC1" fill-opacity="0.39"/>
+<ellipse cx="197.234" cy="1475.29" rx="264.5" ry="220.727" transform="rotate(-30.5436 197.234 1475.29)" fill="#FFFCC1" fill-opacity="0.39"/>
+<ellipse cx="176.434" cy="1042.06" rx="264.5" ry="220.727" transform="rotate(-4.73836 176.434 1042.06)" fill="#FFFCC1" fill-opacity="0.39"/>
+<ellipse cx="191.697" cy="2210.84" rx="264.5" ry="220.727" transform="rotate(-4.73836 191.697 2210.84)" fill="#FFFCC1" fill-opacity="0.39"/>
+<ellipse cx="113" cy="81.5" rx="185" ry="117.5" fill="#5FAAFF" fill-opacity="0.3"/>
+<ellipse cx="128.264" cy="1250.27" rx="185" ry="117.5" fill="#5FAAFF" fill-opacity="0.3"/>
+<ellipse cx="212.294" cy="809.46" rx="185" ry="117.5" transform="rotate(25.8052 212.294 809.46)" fill="#5FAAFF" fill-opacity="0.3"/>
+<ellipse cx="411.151" cy="110.791" rx="377.16" ry="155.199" transform="rotate(-12.5392 411.151 110.791)" fill="#63EDFF" fill-opacity="0.24"/>
+<ellipse cx="426.415" cy="1279.56" rx="377.16" ry="155.199" transform="rotate(-12.5392 426.415 1279.56)" fill="#63EDFF" fill-opacity="0.24"/>
+<ellipse cx="467.962" cy="965.618" rx="377.16" ry="155.199" transform="rotate(13.266 467.962 965.618)" fill="#63EDFF" fill-opacity="0.24"/>
+<ellipse cx="483.226" cy="2134.39" rx="377.16" ry="155.199" transform="rotate(13.266 483.226 2134.39)" fill="#63EDFF" fill-opacity="0.24"/>
+<ellipse cx="253.582" cy="421.002" rx="378.061" ry="278.685" transform="rotate(-22.4649 253.582 421.002)" fill="#63EDFF" fill-opacity="0.36"/>
+<ellipse cx="268.846" cy="1589.78" rx="378.061" ry="278.685" transform="rotate(-22.4649 268.846 1589.78)" fill="#63EDFF" fill-opacity="0.36"/>
+<ellipse cx="251.974" cy="578.462" rx="378.061" ry="278.685" transform="rotate(-5.47091 251.974 578.462)" fill="#63EDFF" fill-opacity="0.36"/>
+<ellipse cx="267.237" cy="1747.23" rx="378.061" ry="278.685" transform="rotate(-5.47091 267.237 1747.23)" fill="#63EDFF" fill-opacity="0.36"/>
+<ellipse cx="776.895" cy="477.294" rx="504.724" ry="138.792" transform="rotate(-24.8441 776.895 477.294)" fill="#FF55D5" fill-opacity="0.12"/>
+<ellipse cx="792.159" cy="1646.07" rx="504.724" ry="138.792" transform="rotate(-24.8441 792.159 1646.07)" fill="#FF55D5" fill-opacity="0.12"/>
+<ellipse cx="735.984" cy="785.245" rx="504.724" ry="138.792" transform="rotate(-7.85016 735.984 785.245)" fill="#FF55D5" fill-opacity="0.12"/>
+<ellipse cx="751.248" cy="1954.02" rx="504.724" ry="138.792" transform="rotate(-7.85016 751.248 1954.02)" fill="#FF55D5" fill-opacity="0.12"/>
+<ellipse cx="814.239" cy="205.988" rx="385.5" ry="199" transform="rotate(-33.5734 814.239 205.988)" fill="#5148FF" fill-opacity="0.09"/>
+<ellipse cx="829.502" cy="1374.76" rx="385.5" ry="199" transform="rotate(-33.5734 829.502 1374.76)" fill="#5148FF" fill-opacity="0.09"/>
+<ellipse cx="789.414" cy="1226.79" rx="385.5" ry="199" transform="rotate(-7.76816 789.414 1226.79)" fill="#5148FF" fill-opacity="0.09"/>
+<g filter="url(#filter0_b_12_114)">
+<path d="M0 0H1100V2452.66H0V0Z" fill="white" fill-opacity="0.01"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_12_114" x="-168" y="-168" width="1436" height="2788.66" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="84"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_12_114"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_12_114" result="shape"/>
+</filter>
+<clipPath id="clip0_12_114">
+<rect width="1100" height="2453" fill="white"/>
+</clipPath>
+</defs>
+</svg>
